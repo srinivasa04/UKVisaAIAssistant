@@ -40,33 +40,29 @@ The agent combines Large Language Models (LLMs), Retrieval-Augmented Generation 
 
 ```
 UK-Visa-Guidance-Agent/
-
 │
-├── visa_agent.ipynb
+├── UK_Visa_Guidance.ipynb
 ├── requirements.txt
 ├── README.md
 │
 ├── data/
-│   Immigration Rules - Immigration Rules Appendix Skilled Worker - Guidance - GOV.UK.pdf
-|   Immigration Rules - Immigration Rules_ Appendix Student - Guidance.pdf
-|   Skilled Worker visa.pdf
-|   Skilled_worker Guidance.pdf
-|   Standard Visitor.pdf
-|   Student visa.pdf
-|   Visit Caseworker Guidance.pdf
-|   guide to supporting documents.pdf
-|   Immigration Rules - Guidance.pdf
-|   Immigration Rules - Immigration Rules Appendix Finance - Guidance.pdf
-│
-├── chroma_db/
+│     Immigration Rules - Immigration Rules Appendix Skilled Worker - Guidance - GOV.UK.pdf
+|     Immigration Rules - Immigration Rules_ Appendix Student - Guidance.pdf
+|     Skilled Worker visa.pdf
+|     Skilled_worker Guidance.pdf
+|     Standard Visitor.pdf
+|     Student visa.pdf
+|     Visit Caseworker Guidance.pdf
+|     guide to supporting documents.pdf
+|     Immigration Rules - Guidance.pdf
+|     Immigration Rules - Immigration Rules Appendix Finance - Guidance.pdf
 │
 ├── docs/
-│     Problem_Framing.pdf
 │     Demo_Script.pdf
-│     Evaluation_Report.pdf
-│     Engineering_Product_Justification.pdf
-│
-└── screenshots/
+│     UK Visa Guidance & Document Readiness Agent.pdf
+│     UK Visa Application Guidance & Document Readiness Evaluation.pdf
+│     UK Visa Guidance Agent – Engineering & Product Justification.pdf
+│     visa_agent_evaluation_metrics.xlsx
 ```
 
 ---
@@ -211,7 +207,6 @@ docs/Evaluation_Report.pdf
 ---
 
 ## Author
-
+Srinviasa Gudarada
 Capstone Project
-
 UK Visa Guidance Agent
